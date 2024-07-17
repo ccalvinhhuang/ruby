@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Input Display",
+  "version": "1.0",
+  "description": "A basic Chrome extension to display typed input.",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
